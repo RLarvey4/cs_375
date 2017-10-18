@@ -1,4 +1,4 @@
-
+#this program allows you to guess a number 1-100
 import random
 
 def main():
